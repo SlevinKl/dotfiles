@@ -1,0 +1,15 @@
+access_token: fo1_Y6xeIaEWBi1HHBZktZi6SgGQRK2cccI6WR9yxde6--0
+metrics_token: FlyV1 fm2_lJPECAAAAAAAAKRnxBD2zB59KrFZylAxxNmAA/2LwrVodHRwczovL2FwaS5mbHkuaW8vdjGUAJLOAAEZnQALk7lodHRwczovL2FwaS5mbHkuaW8vYWFhL3YxxDy+nk5w5XFFnkvEBgQrBhXjvMr542l1sr1AuvieVmOY1Pv1MDmCzsOQHgMCQvqTqsnswxCi8Zvblr8Wc0TERU2UDp7n1KwVJU1OgDASYIsHMV2EbNyKv/YuxJk6dLJ1FqtsB1gCmd7tu22CPeAPIiWQeumL8lNEHrjA6536qR6mrYV9isQgmeKXFhcLjDeEOyheHuh10o2djtigKNwg/Wys1uHRdl0=,fm2_lJPERU2UDp7n1KwVJU1OgDASYIsHMV2EbNyKv/YuxJk6dLJ1FqtsB1gCmd7tu22CPeAPIiWQeumL8lNEHrjA6536qR6mrYV9isQQLa+Z3A27MR/uTjvHjjr+vcO5aHR0cHM6Ly9hcGkuZmx5LmlvL2FhYS92MZYEks5lRoIhzwAAAAEhPqA/CpHN/jIMxBB+oiAxNDwGv0+xSMDygJklxCAVTT90nu+GNiulbRJl8qITA9atZQZJ5LuXEXWCfLUGpg==
+wire_guard_state:
+    personal:
+        org: personal
+        name: interactive-agent-MacBook-Pro-de-Rayane-moula-rayane-gmail-com-01HRMB84TWFTKAST00T06HP2GG
+        region: cdg
+        localpublic: QDD5Lah6uG6wYirgm0lkdi5Syxwobjd/UDUij+TQ8Q4=
+        localprivate: yvcDqnLvNScf+RIPrhQvHuxj9OCbY58DPmNqQ/MvEuw=
+        dns: ""
+        peer:
+            peerip: fdaa:0:9f74:a7b:1596:0:a:302
+            endpointip: cdg1.gateway.6pn.dev
+            pubkey: trM7zOMMKsWHT+F6V08e4e5YVe3VVgf6M8zONd7qzwQ=
+wire_guard_websockets: true
