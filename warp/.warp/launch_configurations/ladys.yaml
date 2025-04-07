@@ -28,5 +28,5 @@ windows:
     tabs:
       - title: Ladys
         layout:
-          cwd: /Users/rayanemoula/code/ladys-club
+          cwd: /Users/rayanemoula/code/Personal/ladys-club
         color: red
