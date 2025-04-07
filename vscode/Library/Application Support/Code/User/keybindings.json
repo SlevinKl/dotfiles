@@ -1,0 +1,30 @@
+// Placer vos combinaisons de touches dans ce fichier pour remplacer les valeurs par défautauto[]
+[
+    {
+        "key": "ctrl+cmd+c",
+        "command": "workbench.panel.chatSidebar.copilot"
+    },
+    {
+        "key": "ctrl+cmd+i",
+        "command": "-workbench.panel.chatSidebar.copilot"
+    },
+    {
+        "key": "ctrl+shift+v",
+        "command": "pasteAndIndent.action",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "cmd+shift+v",
+        "command": "pasteAndIndent.action",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+`",
+        "command": "-erb.toggleTags",
+        "when": "editorTextFocus && editorLangId == 'erb'"
+    },
+    {
+        "key": "shift+cmd+a",
+        "command": "erb.toggleTags"
+    }
+]

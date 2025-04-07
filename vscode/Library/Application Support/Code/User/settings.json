@@ -1,0 +1,86 @@
+{
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 2,
+    "files.insertFinalNewline": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "files.autoSave": "afterDelay",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    // ....
+    "[ruby]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.semanticHighlighting.enabled": true,
+        "editor.defaultFormatter": "testdouble.vscode-standard-ruby"
+    },
+    "rubyLsp.enabledFeatures": {
+        "codeActions": false,
+        "diagnostics": false,
+        "documentHighlights": true,
+        "documentLink": true,
+        "documentSymbols": true,
+        "foldingRanges": true,
+        "formatting": false,
+        "hover": true,
+        "inlayHint": true,
+        "onTypeFormatting": true,
+        "selectionRanges": true,
+        "semanticHighlighting": true,
+        "completion": true,
+        "codeLens": true
+    },
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "svg.preview.transparencyGrid": true,
+    "rubyLsp.rubyVersionManager": {
+        "identifier": "asdf"
+    },
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDragAndDrop": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "diffEditor.maxComputationTime": 0,
+    "security.promptForLocalFileProtocolHandling": false,
+    "chat.editing.confirmEditRequestRemoval": false,
+    "editor.formatOnSave": true,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.md": "default",
+        "*.xlsx": "default",
+        "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
+    },
+    "rubyLsp.featureFlags": {
+        "all": true
+    },
+    "[yaml]": {
+        "diffEditor.ignoreTrimWhitespace": true
+    },
+    "svg.preview.mode": "img",
+    "editor.rulers": [
+        {
+            "column": 150,
+            "color": "#020101"
+        },
+        {
+            "column": 125,
+            "color": "#1a1a1a"
+        },
+        {
+            "column": 100,
+            "color": "#3a3a3a"
+        }
+    ],
+    "github.copilot.enable": {
+        "ruby": true,
+        "markdown": true
+    },
+    "[svg]": {
+        "editor.defaultFormatter": "jock.svg"
+    }
+}
