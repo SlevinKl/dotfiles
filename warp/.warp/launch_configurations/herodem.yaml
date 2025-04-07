@@ -1,0 +1,25 @@
+name: Herodem
+active_window_index: 0
+windows:
+  - active_tab_index: 0
+    tabs:
+      - title: herodem
+        layout:
+          cwd: /Users/rayanemoula/code/herodem
+          is_focused: true
+        color: yellow
+      - title: server
+        layout:
+          cwd: /Users/rayanemoula/code/herodem
+          is_focused: true
+        color: red
+      - title: console
+        layout:
+          cwd: /Users/rayanemoula/code/herodem
+          is_focused: true
+        color: green
+      - title: forman
+        layout:
+          cwd: /Users/rayanemoula/code/herodem
+          is_focused: true
+        color: magenta
