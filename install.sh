@@ -1,3 +1,7 @@
+#---------------------------------------------------------------------
+# This is my last config installer script, now stow manages everythin 
+#---------------------------------------------------------------------
+
 # #!/bin/zsh
 
 # echo "🤙 Start setup!"
