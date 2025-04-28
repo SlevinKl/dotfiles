@@ -26,5 +26,37 @@
     {
         "key": "shift+cmd+a",
         "command": "erb.toggleTags"
+    },
+    {
+        "key": "cmd+s left",
+        "command": "workbench.action.splitEditorLeft"
+    },
+    {
+    "key": "cmd+s right",
+    "command": "workbench.action.splitEditorRight"
+    },
+    {
+        "key": "cmd+s down",
+        "command": "workbench.action.splitEditorDown"
+    },
+    {
+        "key": "cmd+k ctrl+shift+alt+cmd+[Period]",
+        "command": "-workbench.action.splitEditorDown"
+    },
+    {
+        "key": "cmd+s up",
+        "command": "workbench.action.splitEditorUp"
+    },
+    {
+        "key": "cmd+k ctrl+shift+alt+cmd+[Period]",
+        "command": "-workbench.action.splitEditorUp"
+    },
+    {
+        "key": "cmd+k ctrl+shift+alt+cmd+[Period]",
+        "command": "-workbench.action.splitEditorRight"
+    },
+    {
+        "key": "cmd+k ctrl+shift+alt+cmd+[Period]",
+        "command": "-workbench.action.splitEditorLeft"
     }
 ]

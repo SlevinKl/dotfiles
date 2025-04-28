@@ -1,0 +1,8 @@
+to# This file aims to autoselect dependencies versions.
+# It's used by https://github.com/asdf-vm/asdf
+
+ruby 3.2.3
+nodejs 20.11.0
+yarn 1.22.18
+redis 7.0.1
+postgres 14.6

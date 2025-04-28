@@ -52,8 +52,7 @@
     "workbench.editorAssociations": {
         "*.copilotmd": "vscode.markdown.preview.editor",
         "*.md": "default",
-        "*.xlsx": "default",
-        "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
+        "*.xlsx": "default"
     },
     "rubyLsp.featureFlags": {
         "all": true
